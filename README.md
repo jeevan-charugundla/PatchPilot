@@ -2,7 +2,7 @@
 
 PatchPilot is a security-focused repository analysis workspace for engineering teams. It connects to GitHub through OAuth, lets an authenticated user choose a repository, pins analysis to an exact commit, and presents deterministic findings for human review.
 
-> **Current status:** The application includes a working local FastAPI backend and React/Vite frontend. GitHub OAuth requires a GitHub OAuth App and server-side environment configuration before an authorization round trip can succeed.
+
 
 ## Highlights
 
